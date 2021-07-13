@@ -1,0 +1,2 @@
+dataset,model,region,mean,mean_CI95,var,var_CI95,param1,param1_CI95,param2,param2_CI95,param3,param3_CI95,cv,
+onset-to-death,Gamma,Mumbai,15.208,"(15.124, 15.295)",105.301,"(103.708, 106.911)",2.196,"(2.173, 2.22)",0.144,"(0.143, 0.146)",,,0.67481360848243,
